@@ -40,3 +40,10 @@ git clone https://github.com/your_account/IFT220_Lab2.git
 9.	Refresh your GitHub site and see if the changes are there
 10. Turn in a screenshot showing your commmits like this:
 ![](https://github.com/ericcase/IFT220_Lab2/blob/master/Lab2_Submit_Example.PNG)
+
+
+# Lab 2: performed by David Romines on 11/1/2018
+	Changed the organizationalunit.ps1 to match the anticipated domain.
+	added these readme notes. 
+	Not sure when to run the domain scripts so ran them after the commits to GitHub.
+	
