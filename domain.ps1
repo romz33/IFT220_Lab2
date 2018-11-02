@@ -35,4 +35,5 @@ $domainname = Read-Host -Prompt (" ")
 Install-WindowsFeature AD-Domain-Services -IncludeManagementTools | Out-Null
 Install-ADDSForest -DomainName $domainname
 
+# note sure what to change here? looks like all input is from the user upon exe of the script.
 # the machine will now reboot
